@@ -1,0 +1,6 @@
+framework module Pods_ISHPullUpDemo {
+  umbrella header "Pods-ISHPullUpDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
